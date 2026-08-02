@@ -1,0 +1,31 @@
+return_id,category,order_value,trust_tier,true_nature,fraud_archetype,reason_text,reason_tone
+R_830a1f,clothing,32802.49,low_trust,Fraud,serial_returner,Item defective,normal
+R_135cc0,grocery,8523.33,high_trust,Legitimate,none,Item defective,normal
+R_e396cd,electronics,35998.02,high_trust,Borderline,none,Item defective,normal
+R_a62c52,grocery,22051.97,high_trust,Legitimate,none,Item defective,normal
+R_75c330,electronics,30492.47,high_trust,Fraud,empty_box,Item defective,normal
+R_a3f272,electronics,20729.66,high_trust,Borderline,none,Item defective,normal
+R_367e42,clothing,46346.74969594307,high_trust,Fraud,wardrobing,Item defective,normal
+R_6538ca,toys,29046.47,high_trust,Borderline,none,Item defective,normal
+R_09a642,grocery,31312.0,high_trust,Legitimate,none,Item defective,normal
+R_6f7128,electronics,22511.41,high_trust,Legitimate,none,Item defective,normal
+R_dbe90e,grocery,21728.03,high_trust,Borderline,none,Item defective,normal
+R_3c111d,grocery,2241.72,high_trust,Borderline,none,Item defective,normal
+R_3a8a95,grocery,6592.07,low_trust,Fraud,serial_returner,Item defective,normal
+R_2e7ca6,grocery,28965.27,high_trust,Borderline,none,Item defective,normal
+R_44e764,clothing,12486.98,high_trust,Borderline,none,Item defective,normal
+R_4b2fa8,clothing,45291.84688172639,high_trust,Fraud,wardrobing,Item defective,normal
+R_4a41c8,furniture,38623.58,high_trust,Borderline,none,Item defective,normal
+R_253f8c,toys,8811.51,high_trust,Fraud,empty_box,Item defective,normal
+R_364408,toys,29372.52,high_trust,Legitimate,none,Item defective,normal
+R_1daca6,toys,6049.86,low_trust,Borderline,none,Item defective,normal
+R_b370e5,electronics,23910.2,high_trust,Borderline,none,The laptop has been causing issues with freezing and slow performance. I'd like to return it as it's not working as expected.,normal
+R_f79c64,toys,24127.1,high_trust,Borderline,none,"The toy broke after only a few uses, which is very disappointing given the price. I expected it to be much more durable for a product in this category.",normal
+R_3e6f7d,toys,25355.22,high_trust,Legitimate,none,The toy isn't working properly and makes a strange clicking noise when turned on. My child is very disappointed.,normal
+R_d6ac49,clothing,32698.95,high_trust,Legitimate,none,"The dress was beautiful, but unfortunately it just doesn't fit me right. I need a different size.",normal
+R_297970,furniture,25774.71,high_trust,Borderline,none,"The couch looks nice, but it's much firmer than I expected and not very comfortable for lounging. I'd like to return it.",normal
+R_562fcc,grocery,2035.49,high_trust,Borderline,none,"I ordered organic vegetables, but the ones that arrived were not organic. I'd like to return these for a refund.",normal
+R_b299ba,clothing,22129.394418150754,high_trust,Fraud,wardrobing,This dress just isn't what I expected; the fit isn't right for me.,evasive
+R_b8bdfb,grocery,18516.77,low_trust,Fraud,serial_returner,I've decided I no longer need these groceries. They're still in perfect condition.,evasive
+R_c3298e,clothing,18093.16,high_trust,Fraud,empty_box,I opened the package and there was nothing inside. I'm very disappointed with this order.,normal
+R_4a7d5d,electronics,22642.47,low_trust,Fraud,serial_returner,I'm returning this item because I found a better deal elsewhere. I'd like a full refund.,normal
